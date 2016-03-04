@@ -1,0 +1,8 @@
+img{
+	width:50%;
+	height:50%;
+	transform: rotate(90deg);
+	border-style:5px black solid;
+	border-radius:5px;
+}
+	
