@@ -1,0 +1,6 @@
+=== peaceful-woodland-15324 Config Vars
+DATABASE_URL: postgres://knexvjaytjrkho:D0q5wtK5gu8KlLWBqw4VLHlccM@ec2-54-227-250-148.compute-1.amazonaws.com:5432/d4pkphkdd8pt5i
+
+
+
+https://peaceful-woodland-15324.herokuapp.com/db
