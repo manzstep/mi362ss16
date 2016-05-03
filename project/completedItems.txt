@@ -1,0 +1,17 @@
+Hosted on Heroku - Check
+
+Custom Domain Name - Check
+
+Instructor/discretionaty - To be Determined
+
+4 Complete HTML Pages with Content - I have four pages with four different types of content. The first is the home pages which contains my picture, some text, and three source links with their respective images on the top left. The second is an employment page which contains my second image, links to each employment, and a resume javascript popup on the top right. The third is simple information. The fourth is more information, only with 3rd party font icons from Font Awesome
+
+Use at Least two Custom Images - These can be found on the home and employment pages
+
+Integrate JavaScript component - This can be found on the top right by clicking "View my Resume"
+
+Use a 3rd party font icon like FontAwesome - These can be found on the home page and the "Life Experiences" page
+
+
+
+This only adds up to 95%, but I feel like because I used a PHP layout as well as had javascript/jquery that maybe I could get 5% from having programmed. Otherwise, I understand if you only give me up to a 95%. I did try to get 3rd party widgets installed but was unable to do so.
